@@ -1,6 +1,6 @@
-# breast_cancer_detection
-# Breast Cancer Detection Model
 
+# Breast Cancer Detection Model
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayandeep02/breast_cancer_detection/HEAD)
 ## Overview
 
 This repository contains a Deep Learning model for the detection of breast cancer using medical imaging data. The model is trained on a dataset of mammography images and utilizes convolutional neural networks (CNNs) to classify the images as either indicative of breast cancer or not.
