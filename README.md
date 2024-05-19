@@ -24,6 +24,6 @@ To set up the environment for running the breast cancer detection model, follow 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/breast-cancer-detection.git
+   git clone https://github.com/sayandeep02/breast-cancer-detection.git
    cd breast-cancer-detection
   
